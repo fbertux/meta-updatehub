@@ -6,7 +6,7 @@ LIC_FILES_CHKSUM = "file://Licenses/README;md5=30503fd321432fc713238f582193b78e"
 
 SRC_URI = "git://github.com/updatehub/u-boot-updatehub;branch=${SRCBRANCH}"
 
-SRCREV = "4f13d46877a5a3f0013bf3bf1eeb583bef09e170"
+SRCREV = "9ec05a79b7fb01f257e0aa586e012afcc5d550e0"
 SRCBRANCH = "2019.04+updatehub"
 
 PE = "1"
